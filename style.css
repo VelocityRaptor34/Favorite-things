@@ -5,9 +5,16 @@ p{
 
 body {
   background-color:#c18585;
-  font-family:monolithic;
+  font-family:fantasy;
 }
   
 section{
   background-color:#8a1e1e;
+}
+
+body {
+  color:white;
+}
+p{
+  color:white;
 }
